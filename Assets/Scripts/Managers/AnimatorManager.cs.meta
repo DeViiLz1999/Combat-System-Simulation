@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d4711e26fdcf1146b08f7318acf9966
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - am: {instanceID: 0}
+  - swordClashClip: {fileID: 8300000, guid: 77fde409c0ef5f744a16329a6ebb3b68, type: 3}
+  - playerAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
